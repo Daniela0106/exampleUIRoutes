@@ -1,0 +1,19 @@
+{
+  "name": "exampleuiroutes",
+  "version": "1.0.0",
+  "description": "Example from the website Stocth.io",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniela0106/exampleUIRoutes.git"
+  },
+  "author": "Daniela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniela0106/exampleUIRoutes/issues"
+  },
+  "homepage": "https://github.com/Daniela0106/exampleUIRoutes#readme"
+}
